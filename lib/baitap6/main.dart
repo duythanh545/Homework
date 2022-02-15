@@ -145,7 +145,7 @@ class MyStatelessWidget extends StatelessWidget {
                       ),
                     ],
                   ),
-                  margin: EdgeInsets.only(bottom: 10, top: 10),
+                  margin: const EdgeInsets.only(bottom: 10, top: 10),
                 ),
               ),
             ],
