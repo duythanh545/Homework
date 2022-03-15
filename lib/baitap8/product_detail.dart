@@ -51,9 +51,8 @@ class ProductDetail extends StatelessWidget {
                             style: const TextStyle(
                                 color: Colors.white, fontSize: 20),
                           ),
-                          decoration: BoxDecoration(
+                          decoration: const BoxDecoration(
                             color: Colors.black12,
-                            borderRadius: BorderRadius.circular(1),
                           ),
                           alignment: Alignment.center,
                         )),
