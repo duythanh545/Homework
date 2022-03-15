@@ -80,7 +80,7 @@ class _MyAppState extends State<MyApp> {
 final List<Product> listProduct = [
   Product(
       "Áo sọc",
-      "https://thoitrangnutrungnien.com/wp-content/uploads/2018/09/Ao-kieu-phoi-soc-tay-ngan-honey-hinh-2.jpg",
+      "https://sakurafashion.vn/upload/sanpham/large/5860-ao-hoodie-soc-ngang-1.jpg",
       "\$100",
       false),
   Product(
